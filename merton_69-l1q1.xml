@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://bitbucket.org/lombardpress/lombardpress-schema/raw/master/LombardPressODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://bitbucket.org/lombardpress/lombardpress-schema/raw/master/LombardPressODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestiones in primum De anima</title>
+        <author>Anonymus</author>
+        <editor>Michael Stenskjær Christensen</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-08-02">August 2, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://representationandreality.gu.se">
+            Representation and Reality: Historical and Contemporary Perspectives
+            on the Aristotelian Tradition
+          </ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="M" n="">Oxford, Merton College 275, ff. 88-101</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef 
+          n="lbp-diplomatic-1.0.0"
+          target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/diplomatic.rng" 
+          type="diplomatic">
+      </schemaRef>
+    </encodingDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="startsOn">
+        <pb ed="#M" n="88-r" facs="V5r"/><cb ed="#M" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="itemdid">
+        <pb ed="#M" n="87-r"/><cb n="a"/>
+        <gap extent="29" unit="lines" reason="editorial decision" />
+        <p>
+          <lb ed="#M"/> <add place="margin-left">Questio</add><pc type="pilcrow">¶</pc> Circa ingressionem huius sciencie de <unclear>motis</unclear>
+          <lb ed="#M"/> tria queruntur externis<pc type="punctus-medius">·</pc> primum est utrum
+          <lb ed="#M"/> nos habeamus cognicionem de anima <pc type="pilcrow">¶</pc> secundum
+          <lb ed="#M"/> utrum sit nobis innata<pc type="punctus">.</pc> tercium utrum per substantiam
+          <lb ed="#M"/> anime aut per speciem<pc type="punctus">.</pc>
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Circa primum arguitur
+          <lb ed="#M"/> sic<pc type="punctus">.</pc> nihil cadit in intellectu nisi quod prius
+          <lb ed="#M"/> fuit in sensu <pc type="punctus-medius">·</pc> tamen <unclear>ergo</unclear> anima intellectiva non
+          <lb ed="#M"/> cadit <add place="above">sub</add> sensu eo quod immaterialis est manifestum
+          <lb ed="#M"/> est quod non cadet in intellectu<pc type="punctus">.</pc> sed de
+          <lb ed="#M"/> illo quod non cadit in intellectu non <del rend="punct">potest</del> <add place="above">est</add>
+          <lb ed="#M"/> <del rend="punct">esse</del> sciencia ergo de anima non poterit esse sciencia<pc type="punctus">.</pc>
+        </p>
+        <p>
+          <lb ed="#M"/> <pc type="pilcrow">¶</pc> Item arguitur in libro de memoria et reminiscencia
+          <lb ed="#M"/> dicit quod omne nostrum intelligere est cum
+          <lb ed="#M"/> continuo et tempore<pc type="punctus">.</pc> sed anima non est quod continuum et <add place="above">vel</add>
+          <lb ed="#M"/> temporale<pc type="punctus">.</pc> <unclear>sine sensui tempori/temporali</unclear> ergo anima non poterit
+          <lb ed="#M"/> intellectiva<pc type="punctus">.</pc> et sic ad haec  de anima non poterit
+          <lb ed="#M"/> esse sciencia<pc type="punctus">.</pc>
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Item arguitur in tercio huius nostrum
+          <lb ed="#M"/> intelligere vel est fantasma vel non est sine fantasmate<pc type="punctus">.</pc> sed anima nec est est <choice><sic>fas()ma</sic><corr>fantasma</corr></choice>
+          <lb ed="#M"/> nec cum fantasmate quoniam est substancia simplex
+          <lb ed="#M"/> cui nihil admixtum est de fantasmate quare
+          <lb ed="#M"/> ad huc de anima non poterit esse sciencia.
+        </p>
+        <p>
+          <lb ed="#M"/> <pc type="pilcrow">¶</pc> Item omnis sciencia est per racionem<pc type="punctus-medius">·</pc> sed sciencia de
+          <cb ed="#M" n="b"/>
+          <lb ed="#M"/> anima non est per causam<pc type="punctus-medius">·</pc> igitur <unclear>verum</unclear> sciencia non est de <unclear>aliqua</unclear>
+          <lb ed="#M"/> probacio minoris est quod operaciones ut <add place="margin-right">signat</add> <del rend="punct">dicit</del> aristoteles <!-- NB Margin note with meta mark-->
+          cognos<lb ed="#M"/>cuntur per obiecta<pc type="punctus">.</pc> ex operacionibus vero cognoscuntur
+          <lb ed="#M"/> potentie ex potentiis ipsa anima<pc type="punctus">.</pc> et sic ad huc non
+          <lb ed="#M"/> prodit per causam quare ad huc sciencia vera non est de aliqua<pc type="punctus">.</pc>
+        </p>
+        <p>
+          <lb ed="#M"/> <pc type="pilcrow">¶</pc> Item si sciencia esset de anima<pc type="punctus">.</pc> hoc non esset nisi quia
+          <lb ed="#M"/> seipsam cognosceret<pc type="punctus">.</pc> sed ipsa seipsam cognoscere
+          <lb ed="#M"/> non potest <del rend="punct">quoniam probacio s</del> quoniam sicut se habet <unclear>sircus</unclear>
+          <lb ed="#M"/> sensitiva non scit se reflectere supra se<pc type="punctus">.</pc>
+          <lb ed="#M"/> ut visus supra videre quare et cetera.
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Item sic
+          <lb ed="#M"/> se habet oculus noctue ad lucem <add place="above">solis</add> sic intellectus
+          <lb ed="#M"/> noster ad manifestissima nature<pc type="punctus">.</pc> sed oculus noctue
+          <lb ed="#M"/> nullo modo potest recipere lumen solis ergo nec
+          <lb ed="#M"/> intellectus manifestissima nature<pc type="punctus">.</pc> sed talium est anima ergo et cetera<pc type="punctus">.</pc>
+        </p>
+        <p>
+          <lb ed="#M"/> <pc type="pilcrow">¶</pc> Oppositum arguitur sic propter quod unumquodque tale
+          <lb ed="#M"/> et illud magis<pc type="punctus">.</pc> si ergo per animam et propter animam scimus
+          <lb ed="#M"/> unumquodque igitur de anima erit sciencia<pc type="punctus">.</pc>
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> propterea cuius
+          <lb ed="#M"/> sunt <unclear>cause</unclear><pc type="punctus">.</pc> sed anima est huiusmodi ut patet in libro huius ergo et cetera<pc type="punctus">.</pc>
+          <lb ed="#M"/> <pc type="pilcrow">¶</pc> Item omnis substantia simplex nata est existere per se
+          <lb ed="#M"/> nata est cognoscere per se<pc type="punctus">.</pc> sed anima est huiusmodi ergo et cetera<pc type="punctus">.</pc>
+        </p>
+        <p>
+          <lb ed="#M"/> <pc type="pilcrow">¶</pc> Item nulla proposicio est verior illa in qua idem de
+          <lb ed="#M"/> se dicitur<pc type="punctus">.</pc> ergo similiter nulla sciencia est verior illa in
+          <lb ed="#M"/> qua idem est sciens et scitum sed sciencia de anima
+          <lb ed="#M"/> est huiusmodi ergo et cetera<pc type="punctus">.</pc>
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Iuxta hoc queritur de secundo
+          <lb ed="#M"/> utrum omnis cognicio sit nobis innata et arguitur
+          <lb ed="#M"/> quod sic<pc type="punctus">.</pc> omnis cognicio cognitum <unclear>naturaliter</unclear> est coniunctum
+          <lb ed="#M"/> cognoscenti est innata<pc type="punctus">.</pc> in cognicione anime cognitum
+          <lb ed="#M"/> est nobis naturaliter cognitum ergo et cetera major patet de se<pc type="punctus">.</pc> minor
+          <lb ed="#M"/> declaratur quoniam in cognicione anime a nobis idem est
+          <lb ed="#M"/> cognoscens et cognitum<pc type="punctus">.</pc> anima <unclear>eius</unclear> est illud quo scimus
+          <lb ed="#M"/> intelligimus ut <unclear>scribitur</unclear> tercio huius<pc type="punctus">.</pc>
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> propterea quanto virtus
+          cognos<lb ed="#M"/>scitiva est simplicior et subtilior causato facilius potest
+          <lb ed="#M"/> in suam propriam operacionem virtus intellectiva est
+          <lb ed="#M"/> simplicior quam <del rend="punct">virtus</del> sensitiva ergo et cetera<pc type="punctus">.</pc> sed virtus
+          sen<lb ed="#M"/>sitiva <add place="right-margin">potente</add> presente <unclear>sensibilis</unclear> naturaliter procedit ad suam
+          <lb ed="#M"/> propriam operacionem<pc type="punctus">.</pc> potente <unclear>eius</unclear> sensibili nullo
+          in<lb ed="#M"/>pediente <gap extent="4" unit="chars" reason="illegible" /> naturaliter videt illum<pc type="punctus">.</pc> ergo virtus intellectiva
+          <lb ed="#M"/> potest intelligere ipso <unclear>intellectuali</unclear> potente hoc
+          <lb ed="#M"/> autem non esset nisi cognosceret cum ergo si ipsi
+          <lb ed="#M"/> sit presens seipsam cognoscet<pc type="punctus">.</pc> in hac autem
+          <lb ed="#M"/> consistit complecio quoniam ipsa seipsam cognoscit ergo cognicio anime est nobis innata<pc type="punctus">.</pc>
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> oppositum arguitur
+          <lb ed="#M"/> omnis cognicio que <del rend="punct">in</del> est <add place="above">in</add> nobis per ad <unclear>intorium</unclear> sensus
+          <lb ed="#M"/> est adquisita non innata quoniam sit per abstraccionem
+          <lb ed="#M"/> intellectus a fantasmate<pc type="punctus">.</pc> sed cognicio in nobis sit per
+          <lb ed="#M"/> <unclear>adinco()m</unclear> sensus tercio huius<pc type="punctus">.</pc> quoniam sit procedendo ab <unclear>obiectis</unclear>
+          <lb ed="#M"/> ad opera ab operabus ad virtutes a virtutibus
+          <lb ed="#M"/> ad substantiam<pc type="punctus">.</pc> ergo est adquisita et non innata<pc type="punctus">.</pc>
+        </p>
+        <p>
+          <lb ed="#M"/> <pc type="pilcrow">¶</pc> Iuxta hoc queritur utrum cognicio ipsius fiat immediate
+          <lb ed="#M"/> per suam substanciam vel per aliud medium<pc type="punctus">.</pc> arguitur quod immediate
+          <lb ed="#M"/> in separatis a materia<pc type="punctus">.</pc> unumquodque id quod est statim
+          <lb ed="#M"/> est intelligibile et intellectum tercio huius<pc type="punctus">.</pc> anima quid separatum est
+          <pb ed="#M" n="87-v"/><cb ed="#M" n="a"/>
+          <lb ed="#M"/> a materia sicut <unclear>ibr()ione</unclear> dicit aut ergo ipsa est intellectus et
+          <lb ed="#M"/> intellectus <unclear>fantasma</unclear> et si sic sciencia de anima quam ipsa habet de se
+          <lb ed="#M"/> est immediate et non per aliud medium.
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> prima quanto intelligibile magis
+          <lb ed="#M"/> approximatur intellecti<pc type="punctus-elevatus">;</pc> tento magis ab ipso haec
+          intell<lb ed="#M"/>git quoniam intellectus perficitur ex unitate intelligibilis cum
+          intel<lb ed="#M"/>ligibilia sed anima in cognicione sui de se magis sibi
+          approxi<lb ed="#M"/>matur quam aliquid aliud<pc type="punctus">.</pc> ergo in cognicione sui cognoscit immediate
+          <lb ed="#M"/> non per medium
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Oppositum patet per hoc quod dicit aristotelis inferio de
+          <lb ed="#M"/> cognicione anime de qua determinatur hic quod obiecta prima sunt
+          <lb ed="#M"/> operibus et opera potentiis secundum cognicionem<pc type="punctus">.</pc> et quod potencie
+          proce<lb ed="#M"/>dunt substanciam<pc type="punctus-medius">·</pc> sed obiectum operaciones et potencie non sunt id
+          <lb ed="#M"/> quod substantia anime<pc type="punctus-medius">·</pc> ergo anima in cognicione sui quam habet de se
+          cog<lb ed="#M"/>noscat per huiusmodi media<pc type="punctus-medius">·</pc>
+        </p>
+        <p>
+          <pc type="double-diagonal-stroke">//</pc> ad primam questionem dicendum quod
+          <lb ed="#M"/> de anima poterit esse sciencia quoniam cum sit quod simplex
+          <lb ed="#M"/> per suam potenciam<pc type="punctus-elevatus">;</pc> nata est cognoscere se<pc type="punctus-medius">·</pc> unde in separatis
+          <lb ed="#M"/> a materia statim est idem cognoscens et cognitum et
+          intel<lb ed="#M"/>ligens et intellectum<pc type="punctus-medius">·</pc> sciens et scitum
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Et sciendum quo aliquid
+          <lb ed="#M"/> cognoscitur dupliciter vel per privacionem vel per posicionem<pc type="punctus-medius">·</pc> per
+          pri<lb ed="#M"/>vacionem dupliciter vel per privacionem cuius vel est ut
+          priva<lb ed="#M"/>cio in creaturis vel cuius aliquid est ut punctus in
+          <lb ed="#M"/> linea per posicionem tripliciter vel per effectus sicut per creaturas
+          de<lb ed="#M"/>venimus in cognicionem creatoris et hoc modo procedit
+          sci<lb ed="#M"/>encia de anima ergo modo per species<pc type="punctus-medius">·</pc> et hoc dupliciter quia
+          <lb ed="#M"/> aut per speciem propriam ut aliquis <unclear>per ydolum</unclear> sui quod est
+          <lb ed="#M"/> in anima vel per speciem alienam et hoc <unclear>tales</unclear> per
+          ymagi<lb ed="#M"/>nem tercio modo per potenciam ut intelligencia <unclear>alteri</unclear> potens
+          cognos<lb ed="#M"/>cit alterum<pc type="punctus">.</pc> anima ergo cognoscit se per effectus suos et
+          <lb ed="#M"/> per sui potenciam<pc type="punctus">.</pc> et hoc modo habet esse sciencia de anima
+        </p>
+        <p>
+          <pc type="double-diagonal-stroke">//</pc> ad
+          racio<lb ed="#M"/>nes in oppositum dicendum ad primam quod licet anima per se non
+          <lb ed="#M"/> cadat in sensu<pc type="punctus-medius">·</pc> cadit tamen per accidens ut per suos
+          <lb ed="#M"/> effectus<pc type="punctus">.</pc>
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> ad secundum dicendum quod anima secundum suam essenciam non sit res
+          <lb ed="#M"/> continua et temporalis<pc type="punctus">.</pc> tamen quam ad suos operaciones est continua et
+          <lb ed="#M"/> temporalis per hoc patet ad tercium
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> ad quartum dicendum quod non
+          <lb ed="#M"/> valet prior quia <unclear>sensitiva</unclear> virtus materialis et ligata organo
+          <lb ed="#M"/> et ideo non potest se convertere supra se<pc type="punctus-medius">·</pc> sed anima intellectiva non
+          <lb ed="#M"/> est sic ligata<pc type="punctus">.</pc>
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> ad aliud quod arguitur quod omnis sciencia est per causam
+          <lb ed="#M"/> et cetera<pc type="punctus-medius">·</pc> dicendum quod duplex est sciencia <pc type="horizontal-stroke">|</pc>quia<pc type="horizontal-stroke">|</pc> et propter quid<pc type="punctus-medius">·</pc> auctor autem
+          <lb ed="#M"/> tenet de sciencia propter quid<pc type="punctus-medius">·</pc> sciencia autem <unclear>posito/pono</unclear> ita est sciencia quia
+          <lb ed="#M"/> et propter hoc non valet racio<pc type="punctus">.</pc>
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> ad ultimam racionem dicendum quod
+          <lb ed="#M"/> illa racio nihil aliud potest includere nisi quia sicut est imposibile
+          <lb ed="#M"/> oculum noctue videre <unclear>lumine/lumen</unclear> solis<pc type="punctus-medius">·</pc> sic difficile nos
+          <lb ed="#M"/> cognoscere manifestissima nature mediante intellectu
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> per hoc patet
+          <lb ed="#M"/> solucio ad secundam questionem dicendo quod cognicio anime de que
+          <lb ed="#M"/> est hic sermo non est innata nobis mediante sensu et
+          <lb ed="#M"/> mediante abstracione facta a fantasmatibus sensibus
+          <lb ed="#M"/> et hoc loquendo de cognicione anime de qua est hic
+          ser<lb ed="#M"/>mo in hac sciencia quamquam habet de se immo <unclear>verius</unclear> totum
+          <lb ed="#M"/> coniunctum in quam est actus et perfeccio tocius corporis<pc type="punctus-medius">·</pc> loquendo
+          <lb ed="#M"/> enim de eius cognicione a se ipsa in <unclear>statu</unclear> sue
+          separa<lb ed="#M"/>cionis naturaliter se ipsam cognoscit per sui potenciam
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> ad
+          <lb ed="#M"/> illum quod arguitur primo in oppositum<pc type="punctus">.</pc> omnis argumentacio in qua cognoscens
+          <lb ed="#M"/> naturaliter est coniunctum cognito est innata <pc type="pilcrow">¶</pc> dicendum quod verum
+          <lb ed="#M"/> est cum autem <unclear>affiuntur</unclear> quod sic est in cognicione de anima dicendum
+          <lb ed="#M"/> quod falsum est nisi considerando ipsam secundum statum sue
+          <lb ed="#M"/> separacionis quemlibet ipsa de se sit intelligibile quia cum
+          <cb ed="#M" n="b"/>
+          <lb ed="#M"/> intelligere non convenit ei secundum quod est coniuncta nisi
+          <lb ed="#M"/> <unclear>per adnim per adminim talem</unclear> sensus abstrachendo
+          <lb ed="#M"/> species sensibiles a fantasmatibus<pc type="punctus">.</pc> cum sit sicut tabula
+          nu<lb ed="#M"/>da in qua nihil et cetera<pc type="punctus">.</pc> huiusmodi sic est cognoscens seipsam non est
+          <lb ed="#M"/> cognitum<pc type="punctus">.</pc> coniunctum cognoscenti inmediate eo quod non
+          cog<lb ed="#M"/>noscit se per se<pc type="punctus-medius">·</pc> sed per obiecta suarum operacionum<pc type="punctus">.</pc>
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> ad illum quod arguitur secundo sensus naturaliter potest in propriam operacionem
+          <lb ed="#M"/> potencia sensibilis<pc type="punctus-medius">·</pc> ergo et intellectus potest dici quod verum est
+          <lb ed="#M"/> cum autem <unclear>affluuntur</unclear> quod intellectus semper est sibi presens<pc type="punctus">.</pc> dicendum quod falsum
+          <lb ed="#M"/> est in quam est coniunctus quoniam nihil est cognoscibile ab
+          intell<lb ed="#M"/>ectu coniuncto ut per abstractionem iam dictam <pc type="pilcrow">¶</pc> Aliter
+          <lb ed="#M"/> potest dici quod sensus non potest naturaliter super suam operacionem
+          <lb ed="#M"/> <unclear>pn()te</unclear> sensibili quo ad hoc quod sua cognicio non fiat
+          <lb ed="#M"/> adquisita immo <unclear>pn()te</unclear> <unclear>sensibiliter</unclear> nullo impediente ponito
+          <lb ed="#M"/> potest supra suam operacionem in apprehendo sensibile<pc type="punctus-medius">·</pc> et hoc
+          <lb ed="#M"/> non nisi per speciem quam ad quirit a sensu ex eius potencia<pc type="punctus-medius">·</pc> sed
+          <lb ed="#M"/> dicitur naturaliter quo ad hoc posse suam operacionem
+          poten<lb ed="#M"/>te sensibili<pc type="punctus-medius">·</pc> quia de se habet <unclear>potentiam</unclear> naturalem<pc type="punctus-medius">·</pc> ut per speciem
+          <lb ed="#M"/> quam adquirit per sensibile potest speciem apprehendere et
+          <lb ed="#M"/> similiter est dicendum de intellectu respectu intelligibilis ita quod per speciem
+          <lb ed="#M"/> quam adquirit sibi ad intellectu convertendere se supra speciem
+          <lb ed="#M"/> habet naturalem potenciam ipsum intelligendi<pc type="punctus">.</pc> sed hoc non ponit
+          sci<lb ed="#M"/>enciam naturaliter innata quoniam sciencia naturaliter innata ponit
+          <lb ed="#M"/> speciem innata quando fit cognicio per speciem
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> per hoc
+          <lb ed="#M"/> etiam de tercia questione patet dicendo quod cognicio de anima de
+          <lb ed="#M"/> qua hic agitur non est per eius substanciam immediate acceptam
+          <lb ed="#M"/> set mediantibus obiectis operacionibus et potenciis
+          <lb ed="#M"/> ut procedit ultima obieccio licet cognicio in statu sue
+          <lb ed="#M"/> operacionis sit persuam substanciam immediate ut
+          <lb ed="#M"/> patet similiter ex dictis
+        </p>
+        <p>
+          <pc type="double-diagonal-stroke">//</pc> Ad primum cum dicitur in separatis
+          <lb ed="#M"/> a materia et sic concedendum esset quod cognicio anime
+          <lb ed="#M"/> de se esset per immediacionem<pc type="punctus-medius">·</pc> sed quoniam intellectus non
+          <lb ed="#M"/> intelligit sub racione qua separatus sed quia non
+          inten<lb ed="#M"/>dimus hic de ipsa anima <del rend="punct">nec</del> nisi prout est coniuncta cum
+          <lb ed="#M"/> intelligere<pc type="punctus-medius">·</pc> quod proprie debetur coniuncto illud non oportet et de
+          <lb ed="#M"/> tali cognicione cognoscet anima<pc type="punctus-medius">·</pc> sed verius ipsum cognitum
+          <lb ed="#M"/> ut determinatur in hac sciencia
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> similiter patet ad secundum quod
+          <lb ed="#M"/> illud verum est considerando intelligibile sub racione qua
+          intelli<lb ed="#M"/>gibile nunc autem licet anima per suam scienciam intelligibile sit quid
+          <lb ed="#M"/> sit a se ipsa et magis approximatum sibi ipsi illud quod est
+          quan<lb ed="#M"/>tum est de cognicione eius ut est coniuncta sui verius est
+          <lb ed="#M"/> de cognicione coniuncti ipsa sub racione qua intelligibile non se
+          <lb ed="#M"/> habet inmediacius ad intelligens immo obiecta
+          operacio<lb ed="#M"/>nes magis haberent racionem intelligibilis eo quod in tali
+          cogni<lb ed="#M"/>cione nihil fit intelligibile nisi per sensum cuius sunt obiecta
+          <lb ed="#M"/> et opera et non eius obiecta ut visum est<pc type="punctus">.</pc>
+        </p>
+     </div>
+    </body>
+  </text>
+</TEI>
