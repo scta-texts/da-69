@@ -75,7 +75,7 @@
         </p>
         <p>
           <pc type="pilcrow">¶</pc> Item arguitur in tercio huius nostrum
-          <lb ed="#M"/> intelligere vel est fantasma vel non est sine fantasmate<pc type="punctus">.</pc> sed anima nec est est <choice><sic>fas()ma</sic><corr>fantasma</corr></choice>
+          <lb ed="#M"/> intelligere vel est fantasma vel non est sine fantasmate<pc type="punctus">.</pc> sed anima nec est <sic>est</sic> <choice><sic>fas()ma</sic><corr>fantasma</corr></choice>
           <lb ed="#M"/> nec cum fantasmate quoniam est substancia simplex
           <lb ed="#M"/> cui nihil admixtum est de fantasmate quare
           <lb ed="#M"/> ad huc de anima non poterit esse sciencia.
@@ -134,11 +134,11 @@
           <lb ed="#M"/> intelligimus ut <unclear>scribitur</unclear> tercio huius<pc type="punctus">.</pc>
         </p>
         <p>
-          <pc type="pilcrow">¶</pc> propterea quanto virtus
+          <pc type="pilcrow">¶</pc> preterea quanto virtus
           cognos<lb ed="#M"/>citiva est simplicior et subtilior causato facilius potest
           <lb ed="#M"/> in suam propriam operacionem virtus intellectiva est
           <lb ed="#M"/> simplicior quam <del rend="punct">virtus</del> sensitiva ergo et cetera<pc type="punctus">.</pc> sed virtus
-          sen<lb ed="#M"/>sitiva <add place="right-margin">potente</add> presente <unclear>sensibilis</unclear> naturaliter procedit ad suam
+          sen<lb ed="#M"/>sitiva <add place="right-margin">potente</add> presente <unclear>sensibilis/sensibili</unclear> naturaliter procedit ad suam
           <lb ed="#M"/> propriam operacionem<pc type="punctus">.</pc> potente <unclear>eius</unclear> sensibili nullo
           in<lb ed="#M"/>pediente <gap extent="4" unit="chars" reason="illegible" /> naturaliter videt illum<pc type="punctus">.</pc> ergo virtus intellectiva
           <lb ed="#M"/> potest intelligere ipso <unclear>intellectuali</unclear> potente hoc
@@ -191,7 +191,7 @@
         <p>
           <pc type="pilcrow">¶</pc> Et sciendum quo aliquid
           <lb ed="#M"/> cognoscitur dupliciter vel per privacionem vel per posicionem<pc type="punctus-medius">·</pc> per
-          pri<lb ed="#M"/>vacionem dupliciter vel per privacionem cuius vel est ut
+          pri<lb ed="#M"/>vacionem dupliciter vel per privacionem cuius nihil est ut
           priva<lb ed="#M"/>cio in creaturis vel cuius aliquid est ut punctus in
           <lb ed="#M"/> linea per posicionem tripliciter vel per effectus sicut per creaturas
           de<lb ed="#M"/>venimus in cognicionem creatoris et hoc modo procedit
@@ -233,7 +233,7 @@
         </p>
         <p>
           <pc type="pilcrow">¶</pc> per hoc patet
-          <lb ed="#M"/> solucio ad secundam questionem dicendo quod cognicio anime de que
+          <lb ed="#M"/> solucio ad secundam questionem dicendo quod cognicio anime de qua
           <lb ed="#M"/> est hic sermo non est innata nobis mediante sensu et
           <lb ed="#M"/> mediante abstracione facta a fantasmatibus sensibus
           <lb ed="#M"/> et hoc loquendo de cognicione anime de qua est hic
@@ -272,7 +272,7 @@
           poten<lb ed="#M"/>te sensibili<pc type="punctus-medius">·</pc> quia de se habet <unclear>potentiam</unclear> naturalem<pc type="punctus-medius">·</pc> ut per speciem
           <lb ed="#M"/> quam adquirit per sensibile potest speciem apprehendere et
           <lb ed="#M"/> similiter est dicendum de intellectu respectu intelligibilis ita quod per speciem
-          <lb ed="#M"/> quam adquirit sibi ad intellectu convertendere se supra speciem
+          <lb ed="#M"/> quam adquirit sibi ad intellectum convertendere se supra speciem
           <lb ed="#M"/> habet naturalem potenciam ipsum intelligendi<pc type="punctus">.</pc> sed hoc non ponit
           sci<lb ed="#M"/>enciam naturaliter innata quoniam sciencia naturaliter innata ponit
           <lb ed="#M"/> speciem innata quando fit cognicio per speciem
