@@ -69,8 +69,8 @@
           <lb ed="#M"/> <pc type="pilcrow">¶</pc> Item arguitur in libro de memoria et reminiscencia
           <lb ed="#M"/> dicit quod omne nostrum intelligere est cum
           <lb ed="#M"/> continuo et tempore<pc type="punctus">.</pc> sed anima non est quid continuum et <add place="above">vel</add>
-          <lb ed="#M"/> temporale<pc type="punctus">.</pc> <unclear>sine sensui tempori/temporali</unclear> ergo anima non poterit
-          <lb ed="#M"/> intellectiva<pc type="punctus">.</pc> et sic ad haec  de anima non poterit
+          <lb ed="#M"/> temporale<pc type="punctus">.</pc> sive subiectum tempori ergo anima non poterit
+          <lb ed="#M"/> intellectiva<pc type="punctus">.</pc> et sic adhuc de anima non poterit
           <lb ed="#M"/> esse sciencia<pc type="punctus">.</pc>
         </p>
         <p>
@@ -78,7 +78,7 @@
           <lb ed="#M"/> intelligere vel est fantasma vel non est sine fantasmate<pc type="punctus">.</pc> sed anima nec est <sic>est</sic> <choice><sic>fas()ma</sic><corr>fantasma</corr></choice>
           <lb ed="#M"/> nec cum fantasmate quoniam est substancia simplex
           <lb ed="#M"/> cui nihil admixtum est de fantasmate quare
-          <lb ed="#M"/> ad huc de anima non poterit esse sciencia.
+          <lb ed="#M"/> adhuc de anima non poterit esse sciencia.
         </p>
         <p>
           <lb ed="#M"/> <pc type="pilcrow">¶</pc> Item omnis sciencia est per racionem<pc type="punctus-medius">·</pc> sed sciencia de
@@ -191,8 +191,8 @@
         <p>
           <pc type="pilcrow">¶</pc> Et sciendum quo aliquid
           <lb ed="#M"/> cognoscitur dupliciter vel per privacionem vel per posicionem<pc type="punctus-medius">·</pc> per
-          pri<lb ed="#M"/>vacionem dupliciter vel per privacionem cuius nihil est ut
-          priva<lb ed="#M"/>cio in creaturis vel cuius aliquid est ut punctus in
+          pri<lb ed="#M"/>vacionem dupliciter vel per privacionem cuius nihil est ut prima
+          <lb ed="#M"/> causa in creaturis vel cuius aliquid est ut punctus in
           <lb ed="#M"/> linea per posicionem tripliciter vel per effectus sicut per creaturas
           de<lb ed="#M"/>venimus in cognicionem creatoris et hoc modo procedit
           sci<lb ed="#M"/>encia de anima ergo modo per species<pc type="punctus-medius">·</pc> et hoc dupliciter quia

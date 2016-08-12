@@ -27,8 +27,13 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="M" n="">Oxford, Merton College 275, ff. 88-101</witness>
+          <witness xml:id="M">Oxford, Merton College 275, ff. 88-101</witness>
+          <witness xml:id="S">Sienna L.III.21, ff. 134ra-177va</witness>
         </listWit>
+        <listBibl>
+          <bibl xml:id="Gauthier">Gauthier, René Antoine (1984). ‘Preface’ in
+          his edition of Aquinas Sententia De anima. Editio Leonina.</bibl>
+        </listBibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -66,7 +71,7 @@
               <note>Should this be quod non?</note>
             </lem>
           </app>
-          sic. Nihil cadit in intellectu nisi quod prius
+          . Nihil cadit in intellectu nisi quod prius
           fuit in sensu. Cum ergo anima intellectiva non cadit
           <app>
             <lem>fides</lem>
@@ -97,12 +102,16 @@
             <lem>vel</lem>
             <rdg wit="#M" type="variation-substance">et <add place="above">vel</add></rdg>
           </app>
-          temporale <unclear>sine sensui tempori/temporali</unclear>. Ergo anima
-          non poterit intellectiva, et sic ad haec de anima non poterit esse
-          scientia.
+          temporale subiectum tempori. Ergo anima non poterit intellectiva, et
+          sic ad haec de anima non poterit esse scientia.
         </p>
         <p>
-          Item arguitur. In tertio huius nostrum intelligere vel est fantasma
+          Item
+          <app>
+            <lem wit="#O">arguitur</lem>
+            <rdg source="#Gauthier">dicitur</rdg>
+          </app>
+          . In tertio huius nostrum intelligere vel est fantasma
           vel non est sine fantasmate. Sed anima nec est
           <app>
             <lem n="est"/>
@@ -113,7 +122,7 @@
             <rdg wit="#M" type="variation-orthography">fas()ma</rdg>
           </app>
           nec cum fantasmate, quoniam est substantia simplex cui nihil admixtum
-          est de fantasmate, quare ad huc de anima non poterit esse scientia.
+          est de fantasmate, quare adhuc de anima non poterit esse scientia.
         </p>
         <p>
           Item omnis scientia est per rationem, sed scientia de
@@ -163,16 +172,19 @@
           unumquodque, igitur de anima erit scientia.
         </p>
         <p>
-          Praeterea cuius sunt <unclear>causae</unclear>, sed anima est
-          huiusmodi, ut patet in libro huius, ergo et cetera.
+          Praeterea cuius sunt <unclear>causae</unclear> <gap cause="lacuna"/>,
+          sed anima est huiusmodi, ut patet in libro huius, ergo et cetera.
         </p>
         <p>
           Item omnis substantia simplex
+          nata est existere per se
           <app>
-            <lem type="conjecture-addition"><supplied>quae</supplied></lem>
+            <lem type="conjecture-addition" source="#Gauthier">
+              <supplied>et</supplied>
+            </lem>
             <rdg wit="#M" type="variation-absent" />
           </app>
-          nata est existere per se, nata est cognoscere per se. Sed anima est
+          nata est cognoscere per se. Sed anima est
           huiusmodi, ergo et cetera<pc type="punctus">.</pc>
         </p>
         <p>
@@ -181,9 +193,8 @@
           scitum. Sed scientia de anima est huiusmodi, ergo et cetera.
         </p>
         <p>
-          Iuxta hoc quaeritur de secundo
-          utrum omnis cognitio sit nobis innata, et arguitur
-          quod sic. Omnis cognitio
+          Iuxta hoc quaeritur de secundo utrum omnis cognitio sit nobis innata,
+          et arguitur quod sic. Omnis cognitio
           <app>
             <lem type="conjecture-addition"
                  source="Anonymus Vennebusch q. 1a[1] 1, p. 92, l. 22">
@@ -309,15 +320,63 @@
         <p>
           Et sciendum quod aliquid cognoscitur dupliciter: Vel per privationem
           vel per positionem. Per privationem dupliciter: Vel per privationem
-          cuius nihil est ut privatio in creaturis, vel cuius aliquid est ut
+          cuius nihil est ut prima causa in creaturis, vel cuius aliquid est ut
           punctus in linea. Per positionem tripliciter: Vel per effectus sicut
           per creaturas devenimus in cognitionem creatoris, et hoc modo procedit
-          scientia de anima. Secundo modo per species, et hoc dupliciter quia
-          aut per speciem propriam ut aliquis per idolum sui quod est in anima,
-          vel per speciem alienam, et hoc <unclear>tales</unclear> per imaginem.
-          Tertio modo per potentiam ut intelligentia <unclear>alteri</unclear>
-          potens cognoscit alterum. Anima ergo cognoscit se per effectus suos et
-          per sui potentiam, et hoc modo habet esse scientia de anima.
+          scientia de anima.
+          <app>
+            <lem>Secundo</lem>
+            <rdg wit="#O">secundo</rdg>
+            <rdg source="#Gauthier">alio</rdg>
+          </app>
+          modo per species, et hoc dupliciter quia aut per speciem propriam ut
+          aliquis per idolum sui quod est in anima, vel per speciem alienam,
+          <app>
+            <lem type="conjecture-correction" source="#Gauthier">ut</lem>
+            <rdg wit="#O">et</rdg>
+          </app>
+          <app>
+            <lem type="conjecture-correction" source="#Gauthier">Herculem</lem>
+            <rdg wit="#O">Hercules</rdg>
+          </app>
+          per imaginem. Tertio modo per
+          <app>
+            <lem type="conjecture-correction" wit="#S" source="#Gauthier">
+              praesentiam
+            </lem>
+            <rdg source="#Gauthier">
+              praesentiam
+              <note>
+                This is the correct reading, but not what the MS has. This
+                mistaken but correct reading is certainly inspired by the Sienna
+                L.III.21 f. 136rb reading <mentioned>praesentiam</mentioned>
+                here.
+              </note>
+            </rdg>
+            <rdg wit="#O">potentiam</rdg>
+          </app>
+          potentiam ut intelligentia alterius
+          <app>
+            <lem type="conjecture-deletion" source="#Gauthier">
+              <surplus>potens</surplus>
+            </lem>
+            <rdg wit="#O">potens</rdg>
+          </app>
+          cognoscit alterum. Anima ergo cognoscit se per effectus suos et per
+          sui
+          <app>
+            <lem type="conjecture-correction" source="#Gauthier">
+              praesentiam
+            </lem>
+            <rdg source="#Gauthier">
+              praesentiam
+              <note>
+                Same story as above.
+              </note>
+            </rdg>
+            <rdg wit="#O">potentiam</rdg>
+          </app>
+          potentiam, et hoc modo habet esse scientia de anima.
         </p>
         <p>
           Ad rationes.
