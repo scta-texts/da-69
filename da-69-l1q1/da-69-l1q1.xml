@@ -122,10 +122,12 @@
                 in tertio huius
               </ref>
               <quote type="paraphrase">
-                nostrum intelligere vel est fantasma
-                vel non est sine fantasmate.
+                nostrum intelligere vel est fantasma vel non est sine fantasmate
               </quote>
-              <bibl>DA ??</bibl>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.Mem">Mem.</title> 2,  450a7--9.
+              </bibl>
             </cit>
             ; sed anima nec est <surplus>est</surplus> fantasma, nec cum
             fantasmate, quoniam est substantia simplex cui nihil admixtum est de
