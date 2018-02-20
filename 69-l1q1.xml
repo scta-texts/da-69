@@ -56,471 +56,537 @@
       </div>
     </front>
     <body>
-      <div xml:id="69-l1q1">
-        <p>
+      <div xml:id="da-69-l1q1">
+        <p xml:id="da-69-l1q1-7a26en">
           Circa ingressionem huius scientiae de <unclear>motis</unclear> tria
           quaeruntur externis: Primum est utrum nos habeamus cognitionem de
           anima, secundum utrum sit nobis innata, tercium utrum per substantiam
           animae aut per speciem.
         </p>
-        <p>
-          Circa primum arguitur
-          <app>
-            <lem wit="#M">
-              sic
-              <note>Should this be quod non?</note>
-            </lem>
-          </app>
-          . Nihil cadit in intellectu nisi quod prius
-          fuit in sensu. Cum ergo anima intellectiva non cadit
-          <app>
-            <lem>fides</lem>
-            <rdg wit="#M" type="corection-addition"><add place="above">sub</add></rdg>
-          </app>
-          sensu eo quod immaterialis est, manifestum est quod non cadet in
-          intellectu. Sed de illo quod non cadit in
-          intellectu non
-          <app>
-            <lem>est</lem>
-            <rdg wit="#M" type="correction-substitution">
-              <del>potest esse</del>
-              <add place="above">est</add>
-            </rdg>
-          </app>
-          scientia, ergo de anima non poterit esse scientia.
+        <div ana="#rationes-principales">
+          <p ana="#structure-head" xml:id="da-69-l1q1-1hd8ap">
+            Circa primum arguitur sic:
+          </p>
+          <p xml:id="da-69-l1q1-osdfvw">
+            Nihil cadit in intellectu nisi quod prius
+            fuit in sensu. Cum ergo anima intellectiva non cadit
+            <app>
+              <lem>sub</lem>
+              <rdg wit="#M" type="corection-addition">
+                <add place="above-line">sub</add>
+              </rdg>
+            </app>
+            sensu eo quod immaterialis est, manifestum est quod non cadet in
+            intellectu; sed de illo quod non cadit in
+            intellectu non
+            <app>
+              <lem>est</lem>
+              <rdg wit="#M" type="correction-substitution">
+                <del>potest esse</del>
+                <add place="above">est</add>
+              </rdg>
+            </app>
+            scientia; ergo de anima non poterit esse scientia.
+          </p>
+          <p xml:id="da-69-l1q1-bkvzl7">
+            Item arguitur. In libro
+            <cit>
+              <ref>
+                <title ref="#arist.mem">De memoria et reminiscentia</title>
+              </ref>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.Mem">???</title>
+              </bibl>
+            </cit>
+            dicit quod omne nostrum intelligere est cum continuo et tempore; sed
+            anima non est quid continuum
+            <app>
+              <lem>vel</lem>
+              <rdg wit="#M" type="variation-substance">
+                et <add place="above">vel</add>
+              </rdg>
+            </app>
+            temporale sive subiectum tempori; ergo anima non <unclear>poterit
+            intellecta</unclear>, et sic adhuc de anima non poterit esse
+            scientia.
+          </p>
+          <p xml:id="da-69-l1q1-7d069s">
+            Item
+            <app>
+              <lem wit="#O">arguitur</lem>
+              <rdg source="#Gauthier">dicitur</rdg>
+            </app>
+            <cit>
+              <ref>
+                in tertio huius
+              </ref>
+              <quote type="paraphrase">
+                nostrum intelligere vel est fantasma
+                vel non est sine fantasmate.
+              </quote>
+              <bibl>DA ??</bibl>
+            </cit>
+            ; sed anima nec est <surplus>est</surplus> fantasma, nec cum
+            fantasmate, quoniam est substantia simplex cui nihil admixtum est de
+            fantasmate; quare adhuc de anima non poterit esse scientia.
+          </p>
+          <p xml:id="da-69-l1q1-azortm">
+            Item omnis scientia est per causam; sed scientia de
+            <cb ed="#M" n="b"/>
+            anima non est per causam; igitur vera scientia non est de
+            <unclear>anima</unclear>. Probatio minoris est quod operationes, ut
+            <app>
+              <lem>signat</lem>
+              <rdg wit="#M" type="correction-substitution">
+                <subst>
+                  <del rend="punct">dicit</del>
+                  <add place="margin-right">signat</add>
+                </subst>
+              </rdg>
+            </app>
+            <cit>
+              <ref>
+                <name ref="#arist">Aristoteles</name>
+              </ref>
+            </cit>
+            , cognoscuntur per obiecta, ex operationibus vero cognoscuntur
+            potentiae, ex potentiis ipsa anima, et sic adhuc non prodit per
+            causam, quare adhuc scientia vera non est de aliqua.
+          </p>
+          <p xml:id="da-69-l1q1-0akq1m">
+            Item si scientia esset de anima, hoc non esset nisi quia seipsam
+            cognosceret; sed ipsa seipsam cognoscere non potest,
+            <app>
+              <lem />
+              <rdg wit="#M" type="correction-deletion">
+                <del rend="punct">quoniam probatio s</del>
+              </rdg>
+            </app>
+            quoniam sicut se habet virtus sensitiva non scit se reflectere supra
+            se ut visus supra videre; quare et cetera.
+          </p>
+          <p xml:id="da-69-l1q1-5ylyh4">
+            Item sic<supplied>ut</supplied> se habet oculus noctuae ad lucem
+            <app>
+              <lem>solis</lem>
+              <rdg wit="#M" type="correction-addition">
+                <add place="above">solis</add>
+              </rdg>
+            </app>
+            , sic intellectus noster ad manifestissima naturae; sed oculus
+            noctuae nullo modo potest recipere lumen solis; ergo nec intellectus
+            manifestissima naturae, sed talium est anima, ergo et cetera.
+          </p>
+        </div>
+        <div ana="#rationes-principales">
+          <p xml:id="da-69-l1q1-wj1wih">
+            Oppositum arguitur sic: Propter quod unumquodque tale
+            et illud magis; si ergo per animam et propter animam scimus
+            unumquodque, igitur de anima erit scientia.
+          </p>
+          <p xml:id="da-69-l1q1-24eed6">
+            Praeterea cuius sunt <unclear>causae</unclear>
+            <supplied><uncelar>est scientia</uncelar></supplied>; sed anima est
+            huiusmodi, ut patet in <unclear>libro</unclear> huius; ergo et
+            cetera.
+          </p>
+          <p xml:id="da-69-l1q1-ctnhl6">
+            Item omnis substantia simplex nata est existere per se
+            <app>
+              <lem type="conjecture-addition" source="#Gauthier">
+                <supplied>et</supplied>
+              </lem>
+              <rdg wit="#M" type="variation-absent" />
+            </app>
+            nata est cognoscere per se; sed anima est
+            huiusmodi; ergo et cetera.
+          </p>
+          <p xml:id="da-69-l1q1-hefoev">
+            Item nulla propositio est verior illa in qua idem de se dicitur;
+            ergo similiter nulla scientia est verior illa in qua idem est sciens
+            et scitum; sed scientia de anima est huiusmodi, ergo et cetera.
+          </p>
+        </div>
+        <head>
+          <supplied ana="#meta-text">
+            Utrum eius cognitio sit nobis innata
+          </supplied>
+        </head>
+        <p xml:id="da-69-l1q1-w8i2je">
+          Iuxta hoc quaeritur de secundo utrum eius cognitio sit nobis innata,
+          et arguitur quod sic.
         </p>
-        <p>
-          Item arguitur. In libro
-          <cit>
-            <ref ana="#arist.mem_???">
-              <title ref="#arist.mem">De memoria et reminiscentia</title>
-            </ref>
-          </cit>
-          dicit quod omne nostrum intelligere est cum continuo et tempore. Sed
-          anima non est quid continuum
-          <app>
-            <lem>vel</lem>
-            <rdg wit="#M" type="variation-substance">et <add place="above">vel</add></rdg>
-          </app>
-          temporale subiectum tempori. Ergo anima non poterit intellectiva, et
-          sic ad haec de anima non poterit esse scientia.
-        </p>
-        <p>
-          Item
-          <app>
-            <lem wit="#O">arguitur</lem>
-            <rdg source="#Gauthier">dicitur</rdg>
-          </app>
-          . In tertio huius nostrum intelligere vel est fantasma
-          vel non est sine fantasmate. Sed anima nec est
-          <app>
-            <lem n="est"/>
-            <rdg wit="#M" type="variant-present" reason="repetition">est</rdg>
-          </app>
-          <app>
-            <lem>fantasma</lem>
-            <rdg wit="#M" type="variation-orthography">fas()ma</rdg>
-          </app>
-          nec cum fantasmate, quoniam est substantia simplex cui nihil admixtum
-          est de fantasmate, quare adhuc de anima non poterit esse scientia.
-        </p>
-        <p>
-          Item omnis scientia est per causam, sed scientia de
-          <cb ed="#M" n="b"/>
-          anima non est per causam. Igitur <unclear>verum/videtur</unclear>
-          scientia non est de aliqua. Probatio minoris est quod operationes, ut
-          <app>
-            <lem>signat</lem>
-            <rdg wit="#M" type="correction-substitution">
-              <subst>
-                <del rend="punct">dicit</del>
-                <add place="margin-right">signat</add>
-              </subst>
-            </rdg>
-          </app>
-          <cit>
-            <ref ana="???">
-              <name ref="#arist">Aristoteles</name>
-            </ref>
-          </cit>, cognoscuntur per obiecta, ex operationibus vero cognoscuntur
-          potentiae, ex potentiis ipsa anima, et sic ad huc non prodit per
-          causam, quare ad huc scientia vera non est de aliqua.
-        </p>
-        <p>
-          Item si scientia esset de anima, hoc non esset nisi quia seipsam
-          cognosceret. Sed ipsa seipsam cognoscere non potest,
-          <app>
-            <lem />
-            <rdg wit="#M" type="correction-deletion"><del rend="punct">quoniam probatio s</del></rdg>
-          </app>
-          quoniam sicut se habet virtus sensitiva non scit se reflectere supra
-          se ut visus supra videre, quare et cetera.
-        </p>
-        <p>
-          Item sic se habet oculus noctuae ad lucem
-          <app>
-            <lem>solis</lem>
-            <rdg wit="#M" type="correction-addition"><add place="above">solis</add></rdg>
-          </app>, 
-          sic intellectus noster ad manifestissima naturae. Sed oculus noctuae
-          nullo modo potest recipere lumen solis, ergo nec intellectus
-          manifestissima naturae. Sed talium est anima, ergo et cetera.
-        </p>
-        <p>
-          Oppositum arguitur sic: Propter quod unumquodque tale
-          et illud magis. Si ergo per animam et propter animam scimus
-          unumquodque, igitur de anima erit scientia.
-        </p>
-        <p>
-          Praeterea cuius sunt <unclear>causae</unclear> <gap cause="lacuna"/>,
-          sed anima est huiusmodi, ut patet in libro huius, ergo et cetera.
-        </p>
-        <p>
-          Item omnis substantia simplex
-          nata est existere per se
-          <app>
-            <lem type="conjecture-addition" source="#Gauthier">
-              <supplied>et</supplied>
-            </lem>
-            <rdg wit="#M" type="variation-absent" />
-          </app>
-          nata est cognoscere per se. Sed anima est
-          huiusmodi, ergo et cetera<pc type="punctus">.</pc>
-        </p>
-        <p>
-          Item nulla propositio est verior illa in qua idem de se dicitur. Ergo
-          similiter nulla scientia est verior illa in qua idem est sciens et
-          scitum. Sed scientia de anima est huiusmodi, ergo et cetera.
-        </p>
-        <p>
-          Iuxta hoc quaeritur de secundo utrum omnis cognitio sit nobis innata,
-          et arguitur quod sic. Omnis cognitio
-          <app>
-            <lem type="conjecture-addition"
-                 source="Anonymus Vennebusch q. 1a[1] 1, p. 92, l. 22">
-              <supplied>in qua</supplied>
-            </lem>
-            <rdg wit="#M" type="variation-absent"/>
-          </app>
-          cognitum naturaliter est coniunctum cognoscenti est innata. In
-          cognitione animae cognitum est nobis naturaliter cognitum, ergo et
-          cetera. Major patet de se. Minor declaratur quoniam in cognitione
-          animae a nobis idem est cognoscens et cognitum. Anima
-          <unclear>evidenter</unclear> est illud quo scimus
-          <app>
-            <lem type="conjecture-addition"><supplied>et</supplied></lem>
-            <rdg wit="#M" type="variation-absent"/>
-          </app>
-          intelligimus, ut <unclear>scribitur</unclear> tertio huius.
-        </p>
-        <p>
-          Praeterea, quanto virtus cognoscitiva est simplicior et subtilior
-          causato, facilius potest in suam propriam operationem. Virtus
-          intellectiva est simplicior quam sensitiva, ergo et cetera. Sed virtus
-          sensitiva
-          <app>
-            <lem>potente</lem>
-            <rdg wit="#M" type="correction-addition"><add place="right-margin">potente</add></rdg>
-          </app>
-          praesente sensibili naturaliter procedit
-          ad suam propriam operationem. Potente <unclear>eius</unclear>
-          sensibili nullo impediente <gap extent="4" unit="chars"
-          reason="illegible" /> naturaliter videt illum. Ergo virtus
-          intellectiva potest intelligere ipso <unclear>intellectuali</unclear>
-          potente. Hoc autem non esset, nisi cognosceret
-          <app>
-            <lem type="conjecture-correction"
-                 source="Anonymus Vennebusch q. 1a[1] 2, p. 93, l. 31">
-              <supplied><unclear>naturaliter</unclear></supplied>
-            </lem>
-            <rdg wit="#M"/>
-          </app>
-          . Cum ergo, si ipsi sit
-          praesens seipsam, cognoscet, in hac autem consistit complexio, quoniam
-          ipsa seipsam cognoscit. Ergo cognitio animae est nobis innata.
-        </p>
-        <p>
-          Oppositum arguitur.
-          Omnis cognicio quae
-          <app>
-            <lem>est in</lem>
-            <rdg wit="#M" type="correction-substitution">
-              <subst>
-                <del>inest</del>
-                <add>est in</add>
-              </subst>
-            </rdg>
-          </app>
-          nobis per adiutorium sensus, est adquisita, non innata, Quoniam sit
-          per abstractionem intellectus a fantasmate. Sed cognitio in nobis sit
-          per adiutorium sensus tertio huius, quoniam sit procedendo ab
-          obiectis ad opera, ab
-          <app>
-            <lem><unclear>operacionibus/operibus</unclear></lem>
-            <rdg wit="#M" type="variation-orthography">operabus</rdg>
-          </app>
-          ad virtutes, a virtutibus ad substantiam. Ergo est acquisita et non
-          innata.
-        </p>
-        <p>
+        <div ana="#rationes-principales">
+          <p xml:id="da-69-l1q1-8k8c5b">
+            Omnis cognitio
+            <app>
+              <lem type="conjecture-addition">
+                <supplied>in qua</supplied>
+              </lem>
+              <rdg wit="#M" type="variation-absent"/>
+            </app>
+            cognitum naturaliter est coniunctum cognoscenti est innata; in
+            cognitione animae cognitum est nobis naturaliter cognitum; ergo et
+            cetera. Major patet de se. Minor declaratur quoniam in cognitione
+            animae a nobis idem est cognoscens et cognitum. Anima
+            <unclear>evidenter</unclear> est illud quo scimus
+            <supplied>et</supplied> intelligimus, ut <unclear>habetur</unclear>
+            tertio huius.
+          </p>
+          <p xml:id="da-69-l1q1-3qy6kl">
+            Praeterea, quanto virtus cognoscitiva est simplicior et subtilior
+            causato, facilius potest in suam propriam operationem, virtus
+            intellectiva est simplicior quam <del
+            rend="punctuation">virtus</del> sensitiva, ergo et cetera; sed
+            virtus sensitiva
+            <app>
+              <lem>potente</lem>
+              <rdg wit="#M" type="correction-addition">
+                <add place="right-margin">potente</add>
+              </rdg>
+            </app>
+            praesente sensibili naturaliter procedit ad suam propriam
+            operationem. Potente <unclear>eius</unclear> sensibili nullo
+            impediente <unclear>oa()s</unclear> naturaliter videt illum; ergo
+            virtus intellectiva potest intelligere ipso
+            <unclear>intellectuali</unclear> potente. Hoc autem non esset, nisi
+            cognosceret
+            <app>
+              <lem type="conjecture-correction"
+                   source="Anonymus Vennebusch q. 1a[1] 2, p. 93, l. 31">
+                <supplied><unclear>naturaliter</unclear></supplied>
+              </lem>
+              <rdg wit="#M" type="variation-absent"/>
+            </app>
+            . Cum ergo, si ipsi sit praesens seipsam, cognoscet, in hac autem
+            consistit complexio, quoniam ipsa seipsam cognoscit; ergo cognitio
+            animae est nobis innata.
+          </p>
+        </div>
+        <div ana="#rationes-principales">
+          <p xml:id="da-69-l1q1-6ejpl6">
+            Oppositum arguitur. Omnis cognitio quae
+            <app>
+              <lem>est in</lem>
+              <rdg wit="#M" type="correction-substitution">
+                <subst>
+                  <del>inest</del>
+                  <add>est in</add>
+                </subst>
+              </rdg>
+            </app>
+            nobis per adiutorium sensus est adquisita, non innata, quoniam sit
+            per abstractionem intellectus a fantasmate; sed cognitio in nobis
+            sit per adiutorium sensus tertio huius, quoniam sit procedendo ab
+            obiectis ad opera, ab operationibus ad virtutes, a virtutibus ad
+            substantiam. Ergo est acquisita et non innata.
+          </p>
+        </div>
+        <head>
+          <supplied ana="#meta-text">
+            Utrum cognitio ipsius fiat immediate per suam substantiam vel per
+            aliud medium
+          </supplied>
+        </head>
+        <p xml:id="da-69-l1q1-97zfwy">
           Iuxta hoc quaeritur utrum cognitio ipsius fiat immediate per suam
           substantiam vel per aliud medium.
         </p>
-        <p>
-          Arguitur quod immediate. In separatis a materia unumquodque id quod
-          est, statim est intelligibile et intellectum. Tertio huius anima quid
-          separatum est <pb ed="#M" n="87-v"/><cb ed="#M" n="a"/> a materia
-          sicut <unclear>ibn()ione</unclear> dicit, aut ergo ipsa est
-          intellectus et intellectus <unclear>fantasma</unclear>, et si sic,
-          scientia de anima quam ipsa habet de se, est immediate, et non per
-          aliud medium.
-        </p>
-        <p>
-          <unclear>Prima</unclear> quanto intelligibile magis approximatur
-          intellecti, tanto magis ab ipso haec intelligit, quoniam intellectus
-          perficitur ex unitate intelligibilis cum intelligibilia. Sed anima in
-          cognicione sui de se magis sibi approximatur quam aliquid aliud, ergo
-          in cognitione sui cognoscit immediate, non per medium.
-        </p>
-        <p>
-          Oppositum patet per hoc quod dicit
-          <cit>
-            <ref ana="#arist.DA_II.4.415a18-21">
-              <name ref="#arist">Aristoteles</name>
-              inferius
-            </ref>
-          </cit>
-          de cognitione animae de qua determinatur hic, quod obiecta prima sunt
-          operationibus, et opera potentiis secundum cognitionem, et quod potentiae
-          procedunt substantiam, sed
-          <app>
-            <lem type="conjecture-correction">obiecta</lem>
-            <rdg wit="#M">obiectum</rdg>
-          </app>
-          , operationes et
-          potentiae non sunt
-          <app>
-            <lem type="conjecture-corrected"><unclear>idem</unclear></lem>
-            <rdg wit="#M">id</rdg>
-          </app>
-          quod substantia animae, ergo anima in cognitione sui quam habet de se,
-          cognoscat per huiusmodi media.
-        </p>
-        <p>
-          Ad primam
-          <app>
-            <lem>quaestionem</lem>
-            <rdg wit="#M" type="variant-orthographic">quaestione</rdg>
-          </app>
-          dicendum quod de anima poterit esse scientia, quoniam cum sit quod
-          simplex per suam potentiam, nata est cognoscere se. Unde in separatis
-          a materia statim est idem cognoscens et cognitum, et intelligens et
-          intellectum, sciens et scitum.
-        </p>
-        <p>
-          Et sciendum quod aliquid cognoscitur dupliciter: Vel per privationem
-          vel per positionem. Per privationem dupliciter: Vel per privationem
-          cuius nihil est ut prima causa in creaturis, vel cuius aliquid est ut
-          punctus in linea. Per positionem tripliciter: Vel per effectus sicut
-          per creaturas devenimus in cognitionem creatoris, et hoc modo procedit
-          scientia de anima.
-          <app>
-            <lem>Secundo</lem>
-            <rdg wit="#O">secundo</rdg>
-            <rdg source="#Gauthier">alio</rdg>
-          </app>
-          modo per species, et hoc dupliciter quia aut per speciem propriam ut
-          aliquis per idolum sui quod est in anima, vel per speciem alienam,
-          <app>
-            <lem type="conjecture-correction" source="#Gauthier">ut</lem>
-            <rdg wit="#O">et</rdg>
-          </app>
-          <app>
-            <lem type="conjecture-correction" source="#Gauthier">Herculem</lem>
-            <rdg wit="#O">Hercules</rdg>
-          </app>
-          per imaginem. Tertio modo per
-          <app>
-            <lem type="conjecture-correction" wit="#S" source="#Gauthier">
-              praesentiam
-            </lem>
-            <rdg source="#Gauthier">
-              praesentiam
-              <note>
-                This is the correct reading, but not what the MS has. This
-                mistaken but correct reading is certainly inspired by the Sienna
-                L.III.21 f. 136rb reading <mentioned>praesentiam</mentioned>
-                here.
-              </note>
-            </rdg>
-            <rdg wit="#O">potentiam</rdg>
-          </app>
-          potentiam ut intelligentia alterius
-          <app>
-            <lem type="conjecture-deletion" source="#Gauthier">
-              <surplus>potens</surplus>
-            </lem>
-            <rdg wit="#O">potens</rdg>
-          </app>
-          cognoscit alterum. Anima ergo cognoscit se per effectus suos et per
-          sui
-          <app>
-            <lem type="conjecture-correction" source="#Gauthier">
-              praesentiam
-            </lem>
-            <rdg source="#Gauthier">
-              praesentiam
-              <note>
-                Same story as above.
-              </note>
-            </rdg>
-            <rdg wit="#O">potentiam</rdg>
-          </app>
-          potentiam, et hoc modo habet esse scientia de anima.
-        </p>
-        <p>
-          Ad rationes.
-        </p>
-        <p>
-          In oppositum dicendum ad primam quod licet anima per se non cadat in
-          sensu, cadit tamen per accidens, ut per suos effectus.
-        </p>
-        <p>
-          Ad secundum dicendum quod anima secundum suam essentiam non sit res
-          continua et temporalis,
-          <app>
-            <lem type="conjecture-correction">tamquam</lem>
-            <rdg wit="#M">tamen quam</rdg>
-          </app>
-          ad suos operationes est continua et temporalis. Per hoc patet ad
-          tertium.
-        </p>
-        <p>
-          Ad quartum dicendum quod non valet prior quia
-          <unclear>sensitiva</unclear> virtus materialis et ligata organo, et
-          ideo non potest se convertere supra se, sed anima intellectiva non est
-          sic ligata.
-        </p>
-        <p>
-          Ad aliud quod arguitur quod omnis scientia est per causam et cetera
-          dicendum quod duplex est scientia: <mentioned>quia</mentioned> et
-          <mentioned>propter quid</mentioned>. Auctor autem tenet de scientia
-          <mentioned>propter quid</mentioned>. Scientia autem
-          <unclear>posito</unclear> ita est scientia <mentioned>quia</mentioned>
-          et propter hoc non valet ratio.
-        </p>
-        <p>
-          Ad ultimam rationem dicendum quod illa ratio nihil aliud potest
-          includere nisi quia sicut est imposibile oculum noctuae videre lumine
-          solis, sic difficile nos cognoscere manifestissima naturae mediante
-          intellectu.
-        </p>
-        <p>
-          Per hoc patet solutio ad secundam questionem dicendo quod cognitio
-          animae de qua est hic sermo, non est innata nobis,
-          <app>
-            <lem type="conjecture-addition"><supplied>sed</supplied></lem>
-            <rdg wit="#M" />
-          </app>
-          mediante sensu et mediante abstratione facta a fantasmatibus
-          sensualibus, et hoc loquendo de cognitione animae de qua est hic sermo
-          in hac scientia quamquam habet de se immo <unclear>verius</unclear>
-          totum coniunctum inquantum est actus et perfectio totius corporis.
-          Loquendo enim de eius cognitione a se ipsa in statu suae separationis
-          naturaliter se ipsam cognoscit per sui
-          <app>
-            <lem wit="#M">potentiam</lem>
-            <rdg source="Anonymus Vennebush Q.1a[2], p. 95, l. 98">praesentiam</rdg>
-          </app>
-          .
-        </p>
-        <p>
-          Ad illud quod arguitur primo in oppositum, omnis argumentatio in qua
-          cognoscens naturaliter est coniunctum cognito est innata, dicendum
-          quod verum est cum autem assumitur quod sic est in cognitione de anima
-          dicendum quod falsum est nisi considerando ipsam secundum statum suae
-          separationis quemlibet ipsa de se sit intelligibile, quia cum
-          <cb ed="#m" n="b"/>
-          intelligere non convenit ei secundum quod est coniuncta nisi per
-          <unclear>advi()m admimtl()m</unclear> sensus abstrahendo species
-          sensibiles a fantasmatibus cum sit sicut tabula nuda in qua nihil et
-          cetera, huiusmodi sic est cognoscens seipsam non est cognitum
-          coniunctum cognoscenti immediate eo quod non cognoscit se per se, sed
-          per obiecta suarum operationum.
-        </p>
-        <p>
-          Ad illud quod arguitur secundo (sensus naturaliter potest in propriam
-          operationem potentia sensibilis, ergo et intellectus) potest dici quod
-          verum est. Cum autem assumitur quod intellectus semper est sibi
-          praesens, dicendum quod falsum est inquantum est coniunctus, quoniam
-          nihil est cognoscibile ab intellectu coniuncto, ut per abstractionem
-          iam dictam. Aliter potest dici quod sensus non potest naturaliter
-          super suam operationem presente sensibili, quo ad hoc quod sua cognitio
-          non fiat acquisita. Immo praesente
-          <app>
-            <lem type="conjecture-correction"
-                 source="Anon. Vennebusch Q.1a[2] 2, p. 95, l. 109">
-              sensibili
-            </lem>
-            <rdg wit="#M">sensibiliter</rdg>
-          </app>
-          <unclear>sensibiliter</unclear> nullo
-          impediente posito potest supra suam operationem in apprehendo
-          sensibile, et hoc non nisi per speciem quam acquirit a sensu ex eius
-          potencia. Sed dicitur naturaliter quo ad hoc posse suam operationem
-          potente sensibili, quia de se habet <unclear>potentiam</unclear>
-          naturalem, ut per speciem quam acquirit per sensibile, potest speciem
-          apprehendere. Et similiter est dicendum de intellectu respectu
-          intelligibilis ita quod per speciem quam acquirit sibi ad intellectum
-          convertendere se supra speciem habet naturalem potentiam ipsum
-          intelligendi, sed hoc non ponit scientiam naturaliter innata, quoniam
-          scientia naturaliter innata ponit speciem innata, quando fit cognitio
-          per speciem.
-        </p>
-        <p>
-          Per hoc etiam de tertia quaestione patet dicendo quod cognitio de
-          anima de qua hic agitur non est per eius substantiam immediate
-          acceptam sed mediantibus obiectis operationibus et potentiis, ut
-          procedit ultima obiectio, licet cognitio in statu suae
-          <app>
-            <lem type="conjecture-correction">separationis</lem>
-            <rdg wit="#M">operationis</rdg>
-          </app>
-          sit per suam substantiam immediate, ut patet similiter ex dictis.
-        </p>
-        <p>
-          Ad primum cum dicitur <quote>in separatis a materia</quote> et sic
-          concedendum esset quod cognitio animae de se esset per immediationem,
-          sed quoniam intellectus non intelligit sub ratione qua separatus, sed
-          quia non intendimus hic de ipsa anima
-          <app>
-            <lem n="anima"/>
-            <rdg wit="#M" type="correction-deletion">nec</rdg>
-          </app>
-          nisi prout est coniuncta cum intelligere, quod proprie debetur
-          coniuncto, illud non oportet, et de tali cognitione cognoscet anima,
-          sed verius ipsum cognitum, ut determinatur in hac scientia.
-        </p>
-        <p>
-          Similiter patet ad secundum quod illud verum est considerando
-          intelligibile sub ratione qua intelligibile, nunc autem, licet anima
-          per suam
-          <app>
-            <lem type="conjecture-correction">substantiam</lem>
-            <rdg wit="#M">scientiam</rdg>
-          </app>
-          intelligibile sit, quid sit a se ipsa et magis approximatum sibi ipsi
-          illud quod est quantum est de cognitione eius ut est coniuncta sui
-          verius est de cognitione coniuncti ipsa sub ratione qua intelligibile
-          non se habet inmediatius ad intelligens. Immo obiecta
-          <app>
-            <lem type="conjecture-correction">operationis</lem>
-            <rdg wit="#M">operationes</rdg>
-          </app>
-          magis haberent rationem intelligibilis eo quod in tali cognitione
-          nihil fit intelligibile nisi per sensum cuius sunt obiecta et opera, et
-          non eius obiecta, ut visum est.
-        </p>
+        <div ana="#rationes-principales">
+          <p ana="#structure-head" xml:id="da-69-l1q1-xz7kpm">
+            Arguitur quod immediate.
+          </p>
+          <p xml:id="da-69-l1q1-4b1813">
+            In separatis a materia unumquodque id quod est statim est
+            intelligibile et intellectum; tertio huius anima quid separatum est
+            <pb ed="#M" n="87-v"/><cb ed="#M" n="a"/> a materia sicut
+            <unclear>ibr()ione</unclear> dicit, aut ergo ipsa est intellectus et
+            intellectus <unclear>fantasma</unclear>; et si sic, scientia de
+            anima quam ipsa habet de se, est immediate, et non per aliud medium.
+          </p>
+          <p xml:id="da-69-l1q1-ytmjah">
+            <unclear>Principia</unclear> quanto intelligibile magis approximatur
+            intellecti, tanto magis ab ipso haec intelligit, quoniam intellectus
+            perficitur ex unitate intelligibilis cum intelligibilia; sed anima
+            in cognitione sui de se magis sibi approximatur quam aliquid aliud;
+            ergo in cognitione sui cognoscit immediate, non per medium.
+          </p>
+        </div>
+        <div ana="#rationes-principales">
+          <p xml:id="da-69-l1q1-1wi99u">
+            Oppositum patet per hoc quod dicit
+            <cit>
+              <ref>
+                <name ref="#arist">Aristoteles</name>
+                inferius
+              </ref>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.DA">DA</title> II.4, 415a18--21.
+              </bibl>
+            </cit>
+            de cognitione animae de qua determinatur hic, quod obiecta prima
+            sunt operationibus, et opera potentiis secundum cognitionem, et quod
+            potentiae procedunt substantiam; sed
+            <app>
+              <lem type="conjecture-correction">obiecta</lem>
+              <rdg wit="#M">obiectum</rdg>
+            </app>
+            , operationes et
+            potentiae non sunt
+            <app>
+              <lem type="conjecture-corrected"><unclear>idem</unclear></lem>
+              <rdg wit="#M">id</rdg>
+            </app>
+            quod substantia animae; ergo anima in cognitione sui quam habet de
+            se, cognoscat per huiusmodi media.
+          </p>
+        </div>
+        <div>
+          <head>
+            <supplied ana="#meta-text">Ad primam quaestionem</supplied>
+          </head>
+          <p xml:id="da-69-l1q1-kcu87j">
+            Ad primam
+            <app>
+              <lem>quaestionem</lem>
+              <rdg wit="#M" type="variant-orthographic">quaestione</rdg>
+            </app>
+            dicendum quod de anima potest esse scientia, quoniam cum sit quod
+            simplex per suam potentiam, nata est cognoscere se; unde in
+            separatis a materia statim est idem cognoscens et cognitum, et
+            intelligens et intellectum, sciens et scitum.
+          </p>
+          <p xml:id="da-69-l1q1-gkkyp5">
+            Et sciendum quod aliquid cognoscitur dupliciter, vel per privationem
+            vel per positionem. Per privationem dupliciter, vel per privationem
+            cuius nihil est, ut prima causa in creaturis; vel cuius aliquid est
+            ut punctus in linea. Per positionem tripliciter, vel per effectus
+            sicut per creaturas devenimus in cognitionem creatoris, et hoc modo
+            procedit scientia de anima;
+            <app>
+              <lem wit="#O">secundo</lem>
+              <rdg source="#Gauthier">alio</rdg>
+            </app>
+            modo per species, et hoc dupliciter quia aut per speciem propriam ut
+            aliquis per idolum sui quod est in anima, vel per speciem alienam,
+            <app>
+              <lem type="conjecture-correction" source="#Gauthier">
+                ut Herculem
+              </lem>
+              <rdg wit="#O">et Hercules</rdg>
+            </app>
+            per imaginem; tertio modo per
+            <app>
+              <lem type="conjecture-correction" wit="#S" source="#Gauthier">
+                praesentiam
+              </lem>
+              <rdg source="#Gauthier">
+                praesentiam
+                <note>
+                  This is the correct reading, but not what the MS has. This
+                  mistaken but correct reading is certainly inspired by the
+                  Sienna L.III.21 f. 136rb reading
+                  <mentioned>praesentiam</mentioned> here.
+                </note>
+              </rdg>
+              <rdg wit="#O">potentiam</rdg>
+            </app>
+            ut intelligentia alterius
+            <app>
+              <lem type="conjecture-deletion" source="#Gauthier">
+                <surplus>potens</surplus>
+              </lem>
+              <rdg wit="#O">potens</rdg>
+            </app>
+            cognoscit alterum. Anima ergo cognoscit se per effectus suos et per
+            sui
+            <app>
+              <lem type="conjecture-correction" source="#Gauthier">
+                praesentiam
+              </lem>
+              <rdg source="#Gauthier">
+                praesentiam
+                <note>
+                  Same story as above.
+                </note>
+              </rdg>
+              <rdg wit="#O">potentiam</rdg>
+            </app>
+            , et hoc modo habet esse scientia de anima.
+          </p>
+          <div ana="#ad-rationes">
+            <p ana="#structure-head">
+              Ad rationes.
+            </p>
+            <p xml:id="da-69-l1q1-9hn7ba" corresp="#da-69-l1q1-osdfvw">
+              In oppositum dicendum ad primam quod licet anima per se non cadat in
+              sensu, cadit tamen per accidens, ut per suos effectus.
+            </p>
+            <p xml:id="da-69-l1q1-jrpvc5" corresp="#da-69-l1q1-bkvzl7">
+              Ad secundum dicendum quod anima secundum suam essentiam non sit res
+              continua et temporalis,
+              <app>
+                <lem type="conjecture-correction">tamquam</lem>
+                <rdg wit="#M">tamen quam</rdg>
+              </app>
+              ad suos operationes est continua et temporalis.
+            </p>
+            <p xml:id="da-69-l1q1-br2xgn" corresp="#da-69-l1q1-7d069s">
+              Per hoc patet ad tertium.
+            </p>
+            <p xml:id="da-69-l1q1-e1k1hu" corresp="#da-69-l1q1-0akq1m">
+              Ad
+              <app>
+                <lem>quintum</lem>
+                <rdg wit="#O">quartum</rdg>
+              </app>
+              dicendum quod non valet prior quia <unclear>sensitiva</unclear>
+              <supplied>est</supplied> virtus materialis et ligata organo, et ideo
+              non potest se convertere supra se; sed anima intellectiva non est
+              sic ligata.
+            </p>
+            <p xml:id="da-69-l1q1-kpaduh" corresp="#da-69-l1q1-azortm">
+              Ad aliud quod arguitur quod <mentioned>omnis scientia est per
+              causam</mentioned> et cetera, dicendum quod duplex est scientia:
+              <mentioned>quia</mentioned> et <mentioned>propter quid</mentioned>;
+              auctor autem tenet de scientia <mentioned>propter quid</mentioned>;
+              scientia autem posita est scientia <mentioned>quia</mentioned>, et
+              propter hoc non valet ratio.
+            </p>
+            <p xml:id="da-69-l1q1-r24fni" corresp="#da-69-l1q1-5ylyh4">
+              Ad ultimam rationem dicendum quod illa ratio nihil aliud potest
+              includere nisi quia sicut est imposibile oculum noctuae videre
+              lumine solis, sic difficile nos cognoscere manifestissima naturae
+              mediante intellectu.
+            </p>
+          </div>
+        </div>
+        <div>
+          <head>
+            <supplied ana="#meta-text">Ad secundam quaestionem</supplied>
+          </head>
+          <p xml:id="da-69-l1q1-nipmo8">
+            Per hoc patet solutio ad secundam quaestionem dicendo quod cognitio
+            animae de qua est hic sermo, non est innata nobis,
+            <supplied>sed</supplied> mediante sensu et mediante abstractione
+            facta a fantasmatibus sensualibus, et hoc loquendo de cognitione
+            animae de qua est hic sermo in hac scientia, quamquam habet de se,
+            immo verius totum coniunctum inquantum est actus et perfectio totius
+            corporis; loquendo enim de eius cognitione a se ipsa in statu suae
+            separationis naturaliter se ipsam cognoscit per sui
+            <app>
+              <lem source="Anonymus Vennebush Q.1a[2], p. 95, l. 98">
+                praesentiam
+              </lem>
+              <rdg wit="#M">potentiam</rdg>
+            </app>
+            .
+          </p>
+        </div>
+        <div ana="#ad-rationes">
+          <p xml:id="da-69-l1q1-tv29ff" corresp="#da-69-l1q1-8k8c5b">
+            Ad illud quod arguitur primo in oppositum, <mentioned>omnis
+            argumentatio in qua cognoscens naturaliter est coniunctum cognito
+            est innata</mentioned>, dicendum quod verum est. Cum autem assumitur
+            quod sic est in cognitione de anima, dicendum quod falsum est nisi
+            considerando ipsam secundum statum suae separationis quem habet ipsa
+            de se sit intelligibile, quia cum
+            <cb ed="#m" n="b"/>
+            intelligere non convenit ei secundum quod est coniuncta nisi per
+            <unclear>administrationem per administrationem</unclear> sensus
+            abstrahendo species sensibiles a fantasmatibus, cum sit sicut tabula
+            nuda in qua nihil et cetera; <unclear>huiusmodi</unclear> sic est
+            cognoscens seipsam non est cognitum coniunctum cognoscenti immediate
+            eo quod non cognoscit se per se, sed per obiecta suarum operationum.
+          </p>
+          <p xml:id="da-69-l1q1-67sij8" corresp="#da-69-l1q1-3qy6kl">
+            Ad illud quod arguitur secundo, <mentioned>sensus naturaliter potest
+            in propriam operationem potentia sensibilis, ergo et
+            intellectus</mentioned>, potest dici quod verum est. Cum autem
+            assumitur quod intellectus semper est sibi praesens, dicendum quod
+            falsum est inquantum est coniunctus, quoniam nihil est cognoscibile
+            ab intellectu coniuncto, ut per abstractionem iam dictam. Aliter
+            potest dici quod sensus non potest naturaliter super suam
+            operationem presente sensibili, quo ad hoc quod sua cognitio non
+            fiat acquisita. Immo praesente
+            <app>
+              <lem type="conjecture-correction"
+                   source="Anon. Vennebusch Q.1a[2] 2, p. 95, l. 109">
+                sensibili
+              </lem>
+              <rdg wit="#M">sensibiliter</rdg>
+            </app>
+            nullo impediente posito potest supra suam operationem in apprehendo
+            sensibile, et hoc non nisi per speciem quam acquirit a sensu ex eius
+            potentia. Sed dicitur naturaliter quo ad hoc posse suam operationem
+            potente sensibili, quia de se habet <unclear>potentiam</unclear>
+            naturalem, ut per speciem quam acquirit per sensibile potest
+            speciem apprehendere. Et similiter est dicendum de intellectu
+            respectu intelligibilis ita quod per speciem quam acquirit sibi ad
+            intellectum
+            <app>
+              <lem type="conjecture-corrected">convertendo</lem>
+              <rdg wit="#O">convertende</rdg>
+            </app>
+            se supra speciem habet naturalem potentiam ipsum intelligendi, sed
+            hoc non ponit scientiam naturaliter innata, quoniam scientia
+            naturaliter innata ponit speciem innatam, quando fit cognitio per
+            speciem.
+          </p>
+        </div>
+        <div>
+          <head>
+            <supplied ana="#meta-text">
+              Ad tertiam quaestionem
+            </supplied>
+          </head>
+          <p xml:id="da-69-l1q1-p7txa3">
+            Per hoc etiam de tertia quaestione patet dicendo quod cognitio de
+            anima de qua hic agitur non est per eius substantiam immediate
+            acceptam sed mediantibus obiectis operationibus et potentiis, ut
+            procedit ultima obiectio, licet cognitio in statu suae
+            <app>
+              <lem type="conjecture-correction">separationis</lem>
+              <rdg wit="#M">operationis</rdg>
+            </app>
+            sit per suam substantiam immediate, ut patet similiter ex dictis.
+          </p>
+        </div>
+        <div ana="#ad-rationes">
+          <p xml:id="da-69-l1q1-j9muum" corresp="#da-69-l1q1-4b1813">
+            Ad primum cum dicitur <mentioned>in separatis a materia idem est
+            intelligibile et intellectum</mentioned>, verum est sub ratione qua
+            separatum a materia, et sic concedendum esset quod cognitio animae
+            de se esset per <unclear>immediationem</unclear>, sed quoniam
+            intellectus non intelligit sub ratione qua separatus, sed quia non
+            intendimus hic de ipsa anima
+            <app>
+              <lem n="anima"/>
+              <rdg wit="#M" type="correction-deletion">nec</rdg>
+            </app>
+            nisi prout est coniuncta cum intelligere, quod proprie debetur
+            coniuncto, illud non oportet; et de tali cognitione cognoscet anima,
+            sed verius ipsum cognitum, ut determinatur in hac scientia.
+          </p>
+          <p xml:id="da-69-l1q1-1nglpz" corresp="#da-69-l1q1-ytmjah">
+            Similiter patet ad secundum quod illud verum est considerando
+            intelligibile sub ratione qua intelligibile, nunc autem, licet anima
+            per suam scientiam intelligibile sit, quid sit a se ipsa et magis
+            approximatum sibi ipsi illud quod est quantum est de cognitione
+            eius, ut est coniuncta sui; verius est de cognitione coniuncti ipsa
+            sub ratione qua intelligibile non se habet inmediatius ad
+            intelligens. Immo obiecta
+            <app>
+              <lem type="conjecture-correction">operationis</lem>
+              <rdg wit="#M">operationes</rdg>
+            </app>
+            magis haberent rationem intelligibilis eo quod in tali cognitione
+            nihil fit intelligibile nisi per sensum cuius sunt obiecta et opera,
+            et non eius obiecta, ut visum est.
+          </p>
+        </div>
       </div>
     </body>
   </text>
