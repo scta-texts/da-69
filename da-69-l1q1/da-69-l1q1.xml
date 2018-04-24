@@ -57,6 +57,16 @@
     </front>
     <body>
       <div xml:id="da-69-l1q1">
+        <head>
+          <supplied ana="#meta-text">
+            Tres quaestiones circa scientiam de anima
+          </supplied>
+        </head>
+        <head>
+          <supplied ana="#meta-text">
+            1. Utrum nos habeamus cognitionem de anima
+          </supplied>
+        </head>
         <p xml:id="da-69-l1q1-7a26en">
           Circa ingressionem huius scientiae de <unclear>motis</unclear> tria
           quaeruntur externis: Primum est utrum nos habeamus cognitionem de
@@ -96,7 +106,7 @@
               </ref>
               <bibl>
                 <name ref="#Aristotle">Arist.</name>
-                <title ref="#Arist.Mem">???</title>
+                <title ref="#Arist.Mem">Mem.</title> 2,  450a7--9.
               </bibl>
             </cit>
             dicit quod omne nostrum intelligere est cum continuo et tempore; sed
@@ -126,7 +136,7 @@
               </quote>
               <bibl>
                 <name ref="#Aristotle">Arist.</name>
-                <title ref="#Arist.Mem">Mem.</title> 2,  450a7--9.
+                <title ref="#Arist.DA">DA</title> III.???
               </bibl>
             </cit>
             ; sed anima nec est <surplus>est</surplus> fantasma, nec cum
@@ -165,8 +175,8 @@
                 <del rend="punct">quoniam probatio s</del>
               </rdg>
             </app>
-            quoniam sicut se habet virtus sensitiva non scit se reflectere supra
-            se ut visus supra videre; quare et cetera.
+            quoniam sicut se habet virtus sensitiva non scit se reflectere
+            supra se ut visus supra videre; quare et cetera.
           </p>
           <p xml:id="da-69-l1q1-5ylyh4">
             Item sic<supplied>ut</supplied> se habet oculus noctuae ad lucem
@@ -196,13 +206,13 @@
           <p xml:id="da-69-l1q1-ctnhl6">
             Item omnis substantia simplex nata est existere per se
             <app>
-              <lem type="conjecture-addition" source="#Gauthier">
+              <lem><supplied>et</supplied></lem>
+              <rdg type="conjecture-addition" source="#Gauthier">
                 <supplied>et</supplied>
-              </lem>
+              </rdg>
               <rdg wit="#M" type="variation-absent" />
             </app>
-            nata est cognoscere per se; sed anima est
-            huiusmodi; ergo et cetera.
+            nata est cognoscere per se; sed anima est huiusmodi; ergo et cetera.
           </p>
           <p xml:id="da-69-l1q1-hefoev">
             Item nulla propositio est verior illa in qua idem de se dicitur;
@@ -212,7 +222,7 @@
         </div>
         <head>
           <supplied ana="#meta-text">
-            Utrum eius cognitio sit nobis innata
+            2. Utrum eius cognitio sit nobis innata
           </supplied>
         </head>
         <p xml:id="da-69-l1q1-w8i2je">
@@ -287,7 +297,7 @@
         </div>
         <head>
           <supplied ana="#meta-text">
-            Utrum cognitio ipsius fiat immediate per suam substantiam vel per
+            3. Utrum cognitio ipsius fiat immediate per suam substantiam vel per
             aliud medium
           </supplied>
         </head>
@@ -397,9 +407,12 @@
             </app>
             ut intelligentia alterius
             <app>
-              <lem type="conjecture-deletion" source="#Gauthier">
+              <lem>
                 <surplus>potens</surplus>
               </lem>
+              <rdg type="conjecture-deletion" source="#Gauthier">
+                <surplus>potens</surplus>
+              </rdg>
               <rdg wit="#O">potens</rdg>
             </app>
             cognoscit alterum. Anima ergo cognoscit se per effectus suos et per
@@ -423,12 +436,12 @@
               Ad rationes.
             </p>
             <p xml:id="da-69-l1q1-9hn7ba" corresp="#da-69-l1q1-osdfvw">
-              In oppositum dicendum ad primam quod licet anima per se non cadat in
-              sensu, cadit tamen per accidens, ut per suos effectus.
+              In oppositum dicendum ad primam quod licet anima per se non cadat
+              in sensu, cadit tamen per accidens, ut per suos effectus.
             </p>
             <p xml:id="da-69-l1q1-jrpvc5" corresp="#da-69-l1q1-bkvzl7">
-              Ad secundum dicendum quod anima secundum suam essentiam non sit res
-              continua et temporalis,
+              Ad secundum dicendum quod anima secundum suam essentiam non sit
+              res continua et temporalis,
               <app>
                 <lem type="conjecture-correction">tamquam</lem>
                 <rdg wit="#M">tamen quam</rdg>
@@ -445,17 +458,18 @@
                 <rdg wit="#O">quartum</rdg>
               </app>
               dicendum quod non valet prior quia <unclear>sensitiva</unclear>
-              <supplied>est</supplied> virtus materialis et ligata organo, et ideo
-              non potest se convertere supra se; sed anima intellectiva non est
-              sic ligata.
+              <supplied>est</supplied> virtus materialis et ligata organo, et
+              ideo non potest se convertere supra se; sed anima intellectiva non
+              est sic ligata.
             </p>
             <p xml:id="da-69-l1q1-kpaduh" corresp="#da-69-l1q1-azortm">
               Ad aliud quod arguitur quod <mentioned>omnis scientia est per
               causam</mentioned> et cetera, dicendum quod duplex est scientia:
-              <mentioned>quia</mentioned> et <mentioned>propter quid</mentioned>;
-              auctor autem tenet de scientia <mentioned>propter quid</mentioned>;
-              scientia autem posita est scientia <mentioned>quia</mentioned>, et
-              propter hoc non valet ratio.
+              <mentioned>quia</mentioned> et <mentioned>propter
+              quid</mentioned>; auctor autem tenet de scientia
+              <mentioned>propter quid</mentioned>; scientia autem posita est
+              scientia <mentioned>quia</mentioned>, et propter hoc non valet
+              ratio.
             </p>
             <p xml:id="da-69-l1q1-r24fni" corresp="#da-69-l1q1-5ylyh4">
               Ad ultimam rationem dicendum quod illa ratio nihil aliud potest
