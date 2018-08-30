@@ -82,7 +82,7 @@
             fuit in sensu. Cum ergo anima intellectiva non cadit
             <app>
               <lem>sub</lem>
-              <rdg wit="#M" type="corection-addition">
+              <rdg wit="#M" type="correction-addition">
                 <add place="above-line">sub</add>
               </rdg>
             </app>
@@ -117,9 +117,8 @@
                 et <add place="above">vel</add>
               </rdg>
             </app>
-            temporale sive subiectum tempori; ergo anima non <unclear>poterit
-            intellecta</unclear>, et sic adhuc de anima non poterit esse
-            scientia.
+            temporale sive subiectum tempori; ergo anima non poterit intelligi,
+            et sic adhuc de anima non poterit esse scientia.
           </p>
           <p xml:id="da-69-l1q1-7d069s">
             Item
@@ -136,8 +135,16 @@
               </quote>
               <bibl>
                 <name ref="#Aristotle">Arist.</name>
-                <title ref="#Arist.DA">DA</title> III.???
+                <title ref="#Arist.DA">DA</title> III.8, 432a7--14.
               </bibl>
+              <note>
+                Cf.
+                <bibl>
+                  <name ref="#Aristotle">Arist.</name>
+                  <title ref="#Arist.DA">DA</title>
+                  I.1, 403a8--10.
+                </bibl>
+              </note>
             </cit>
             ; sed anima nec est <surplus>est</surplus> fantasma, nec cum
             fantasmate, quoniam est substantia simplex cui nihil admixtum est de
@@ -146,8 +153,8 @@
           <p xml:id="da-69-l1q1-azortm">
             Item omnis scientia est per causam; sed scientia de
             <cb ed="#M" n="b"/>
-            anima non est per causam; igitur vera scientia non est de
-            <unclear>anima</unclear>. Probatio minoris est quod operationes, ut
+            anima non est per causam; igitur vera scientia non est de anima.
+            Probatio minoris est quod operationes, ut
             <app>
               <lem>signat</lem>
               <rdg wit="#M" type="correction-substitution">
@@ -161,6 +168,17 @@
               <ref>
                 <name ref="#arist">Aristoteles</name>
               </ref>
+              <bibl>
+                <name ref="#arist">Arist.</name>
+                <title ref="#Arist.DA">DA</title> I.1, 402b9--22.
+              </bibl>
+              <note>
+                Cf.
+                <bibl>
+                  <name ref="#arist">Arist.</name>
+                  <title ref="#Arist.DA">DA</title> II.4, 415a14--22.
+                </bibl>
+              </note>
             </cit>
             , cognoscuntur per obiecta, ex operationibus vero cognoscuntur
             potentiae, ex potentiis ipsa anima, et sic adhuc non prodit per
@@ -170,7 +188,7 @@
             Item si scientia esset de anima, hoc non esset nisi quia seipsam
             cognosceret; sed ipsa seipsam cognoscere non potest,
             <app>
-              <lem />
+              <lem n="potest" />
               <rdg wit="#M" type="correction-deletion">
                 <del rend="punct">quoniam probatio s</del>
               </rdg>
@@ -199,17 +217,15 @@
           </p>
           <p xml:id="da-69-l1q1-24eed6">
             Praeterea cuius sunt <unclear>causae</unclear>
-            <supplied><uncelar>est scientia</uncelar></supplied>; sed anima est
-            huiusmodi, ut patet in <unclear>libro</unclear> huius; ergo et
-            cetera.
+            <unclear><supplied>est scientia</supplied></unclear>; sed anima est
+            huiusmodi, ut patet in libro huius; ergo et cetera.
           </p>
           <p xml:id="da-69-l1q1-ctnhl6">
             Item omnis substantia simplex nata est existere per se
             <app>
-              <lem><supplied>et</supplied></lem>
-              <rdg type="conjecture-addition" source="#Gauthier">
+              <lem type="conjecture-supplied" source="#Gauthier">
                 <supplied>et</supplied>
-              </rdg>
+              </lem>
               <rdg wit="#M" type="variation-absent" />
             </app>
             nata est cognoscere per se; sed anima est huiusmodi; ergo et cetera.
@@ -231,18 +247,11 @@
         </p>
         <div ana="#rationes-principales">
           <p xml:id="da-69-l1q1-8k8c5b">
-            Omnis cognitio
-            <app>
-              <lem type="conjecture-addition">
-                <supplied>in qua</supplied>
-              </lem>
-              <rdg wit="#M" type="variation-absent"/>
-            </app>
-            cognitum naturaliter est coniunctum cognoscenti est innata; in
-            cognitione animae cognitum est nobis naturaliter cognitum; ergo et
-            cetera. Major patet de se. Minor declaratur quoniam in cognitione
-            animae a nobis idem est cognoscens et cognitum. Anima
-            <unclear>evidenter</unclear> est illud quo scimus
+            Omnis cognitio <supplied>in qua</supplied> cognitum naturaliter est
+            coniunctum cognoscenti est innata; in cognitione animae cognitum est
+            nobis naturaliter cognitum; ergo et cetera. Major patet de se. Minor
+            declaratur quoniam in cognitione animae a nobis idem est cognoscens
+            et cognitum. Anima <unclear>evidenter</unclear> est illud quo scimus
             <supplied>et</supplied> intelligimus, ut <unclear>habetur</unclear>
             tertio huius.
           </p>
@@ -265,8 +274,7 @@
             <unclear>intellectuali</unclear> potente. Hoc autem non esset, nisi
             cognosceret
             <app>
-              <lem type="conjecture-correction"
-                   source="Anonymus Vennebusch q. 1a[1] 2, p. 93, l. 31">
+              <lem type="conjecture-corrected">
                 <supplied><unclear>naturaliter</unclear></supplied>
               </lem>
               <rdg wit="#M" type="variation-absent"/>
@@ -278,7 +286,7 @@
         </div>
         <div ana="#rationes-principales">
           <p xml:id="da-69-l1q1-6ejpl6">
-            Oppositum arguitur. Omnis cognitio quae
+            Oppositum arguitur: Omnis cognitio quae
             <app>
               <lem>est in</lem>
               <rdg wit="#M" type="correction-substitution">
@@ -348,14 +356,14 @@
             , operationes et
             potentiae non sunt
             <app>
-              <lem type="conjecture-corrected"><unclear>idem</unclear></lem>
+              <lem type="conjecture-corrected">idem</lem>
               <rdg wit="#M">id</rdg>
             </app>
             quod substantia animae; ergo anima in cognitione sui quam habet de
-            se, cognoscat per huiusmodi media.
+            se cognoscat per huiusmodi media.
           </p>
         </div>
-        <div>
+        <div xml:id="da-69-l1q1-us05on">
           <head>
             <supplied ana="#meta-text">Ad primam quaestionem</supplied>
           </head>
@@ -391,18 +399,10 @@
             </app>
             per imaginem; tertio modo per
             <app>
-              <lem type="conjecture-correction" wit="#S" source="#Gauthier">
+              <lem type="conjecture-corrected" source="#Gauthier">
                 praesentiam
               </lem>
-              <rdg source="#Gauthier">
-                praesentiam
-                <note>
-                  This is the correct reading, but not what the MS has. This
-                  mistaken but correct reading is certainly inspired by the
-                  Sienna L.III.21 f. 136rb reading
-                  <mentioned>praesentiam</mentioned> here.
-                </note>
-              </rdg>
+              <!-- <rdg wit="#S">praesentiam</rdg> -->
               <rdg wit="#O">potentiam</rdg>
             </app>
             ut intelligentia alterius
@@ -418,15 +418,10 @@
             cognoscit alterum. Anima ergo cognoscit se per effectus suos et per
             sui
             <app>
-              <lem type="conjecture-correction" source="#Gauthier">
+              <lem type="conjecture-corrected" source="#Gauthier">
                 praesentiam
               </lem>
-              <rdg source="#Gauthier">
-                praesentiam
-                <note>
-                  Same story as above.
-                </note>
-              </rdg>
+              <!-- <rdg wit="#S">praesentiam</rdg> -->
               <rdg wit="#O">potentiam</rdg>
             </app>
             , et hoc modo habet esse scientia de anima.
@@ -580,7 +575,9 @@
             intendimus hic de ipsa anima
             <app>
               <lem n="anima"/>
-              <rdg wit="#M" type="correction-deletion">nec</rdg>
+              <rdg wit="#M" type="correction-deletion">
+                <del>nec</del>
+              </rdg>
             </app>
             nisi prout est coniuncta cum intelligere, quod proprie debetur
             coniuncto, illud non oportet; et de tali cognitione cognoscet anima,
